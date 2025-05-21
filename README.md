@@ -251,13 +251,6 @@ The application will be available at `http://localhost:5000`.
 - **Frontend**: HTML, CSS (Tailwind), JavaScript
 - **Cryptography**: Python cryptography libraries, custom implementations
 
-## Contributors
-
--
--
--
--
-
 ## License
 
 MIT License
